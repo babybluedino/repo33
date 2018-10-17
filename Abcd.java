@@ -5,6 +5,6 @@ public class Abcd{
 		System.out.println("message to see that changes make build");
 		System.out.println("more messages");
 		
-		new Sample().met();
+		
 	}
 }
