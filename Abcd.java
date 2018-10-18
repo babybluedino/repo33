@@ -3,7 +3,6 @@ public class Abcd{
 	{
 		System.out.println("in main method");
 		System.out.println("message to see that changes make build");
-		System.out.println("more messages");
 		
 		
 	}
